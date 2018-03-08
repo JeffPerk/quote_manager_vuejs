@@ -1,4 +1,4 @@
-# vue-cli
+# Quote Manager
 
 > A Vue.js project
 
@@ -15,4 +15,7 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Project Description
+
+> This vue js project is a simple management system. It allows users to create quotes and delete them.
+> This does not utilize back end functionality, simply this displays the front end capabilities of vuejs.
